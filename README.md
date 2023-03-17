@@ -14,3 +14,5 @@ Para usar o ConvertImg, basta fazer o upload de uma imagem na página inicial e 
 - JavaScript
 - Rust
 - WebAssembly
+
+Você pode testar a aplicação aqui: https://image-effect-grayscale.vercel.app/
